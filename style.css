@@ -1,0 +1,35 @@
+
+ body{
+  background-color: bisque;
+
+}
+ table{
+   background-color: yellowgreen;
+   margin: auto;
+   width: 80%;
+   height: 50%;
+   margin-top: 20px;
+   border: 20px solid purple;
+   outline: dashed;  
+   margin-bottom: 30px;
+ }      
+
+  th{
+  font-size: 4vh; 
+  background-color: rgb(168, 168, 46); 
+  padding: 20px;
+}
+ th:hover{
+  background-color: white;
+  color: blue;
+}
+ td{
+  font-size: 3vh;
+  background-color: white;
+  color: black; 
+  padding: 7px;
+}
+ td:hover{
+  background-color: pink;
+  color: purple;
+}
